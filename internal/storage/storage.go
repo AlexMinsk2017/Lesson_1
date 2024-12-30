@@ -1,9 +1,9 @@
 package storage
 
 import (
-	"Lesson_1/internal/file"
 	"errors"
 	"fmt"
+	"github.com/AlexMinsk2017/Lesson_1/internal/file"
 	"github.com/google/uuid"
 )
 
