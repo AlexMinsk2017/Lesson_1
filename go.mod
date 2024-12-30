@@ -1,4 +1,4 @@
-module Lesson_1
+module module github.com/AlexMinsk2017/Lesson_1
 
 go 1.22
 
