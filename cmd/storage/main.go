@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Lesson_1/internal/storage"
 	"fmt"
+	"github.com/AlexMinsk2017/Lesson_1/internal/storage"
 )
 
 func main() {
